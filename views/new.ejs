@@ -1,0 +1,28 @@
+<% include partials/header %>
+    <div class="container">
+	<div class="row">
+	<div class="col-12 col-md-3 p-3 p-md-5"><img class="img-fluid shadow rounded" src="/bar.png"/>
+			<hr/>
+		<a href="/" class="btn btn-primary btn-block shadow rounded">Home Page</a>
+		<hr/>
+		<a href="/stocks/new" class="btn btn-primary btn-block shadow rounded">New Item</a>
+		<hr/>
+		<small><a href="https://www.hockeycomputindo.com">www.hockeycomputindo.com</a></small>
+	</div>
+	<div class="col-12 col-md-9 p-3 p-md-5">
+		
+		<form action="/stocks" method="POST">
+			<div class="form-group">
+				<label>Product Name</label>
+				<input type="text" name="stock[text]" placeholder="product name" class="form-control">
+					<label>Sell Price</label>
+				<input type="text" name="stock[text]" placeholder="input price" class="form-control">
+				<label>Stock</label>
+				<input type="text" name="stock[text]" placeholder="qty" class="form-control">
+			</div>
+			<button class="btn btn-primary btn-lg btn-block">Save Stock</button>
+		</form>
+	</div>
+</div>
+</div>
+<% include partials/footer %>
