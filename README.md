@@ -24,7 +24,7 @@ Installation :
 Open npm/git on project folder right click select git bash here
 and run : 
 
-+ npm i -g nodemon 
++ npm i
 + nodemon
 
 Open localhost:5000
