@@ -2,6 +2,10 @@
 
 fast inventori management with simple system , develope using node js, express js , and mongo db
 
+![free download inventori apps simple gratis aplikasi stok gudang](https://a.fsdn.com/con/app/proj/tokoapp/screenshots/Screenshot_2020-09-08%20Inventori%20management.png/max/max/1)
+
+![free download inventori apps simple gratis aplikasi stok gudang](https://a.fsdn.com/con/app/proj/tokoapp/screenshots/Screenshot_2020-09-08%20Inventori%20management%282%29.png/max/max/1)
+
 ### First install
 
 Need third party apps : 
