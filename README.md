@@ -25,6 +25,11 @@ and run :
 
 Open localhost:5000
 
+how install mongo : https://www.hockeycomputindo.com/2020/06/mongodb-installation-cara-installasi.html
+
+First use mongo db : https://www.hockeycomputindo.com/2020/06/how-to-connect-and-first-use-mongodb.html
+
+
 Get started :
 
 New : Create inventori product db
