@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# INVENTORI STOCK SIMPLE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/mongostock/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+fast inventori management with simple system , develope using node js, express js , and mongo db
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![free download inventori apps simple gratis aplikasi stok gudang](https://a.fsdn.com/con/app/proj/tokoapp/screenshots/Screenshot_2020-09-08%20Inventori%20management.png/max/max/1)
 
-### Markdown
+![free download inventori apps simple gratis aplikasi stok gudang](https://a.fsdn.com/con/app/proj/tokoapp/screenshots/Screenshot_2020-09-08%20Inventori%20management%282%29.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### First install
 
-```markdown
-Syntax highlighted code block
+Need third party apps : 
 
-# Header 1
-## Header 2
-### Header 3
++ NPM
++ Git
++ Mongo
++ Mongod
++ Express JS
++ Nodemon
 
-- Bulleted
-- List
+Installation : 
 
-1. Numbered
-2. List
++ start mongod
 
-**Bold** and _Italic_ and `Code` text
+Open npm/git on project folder right click select git bash here
+and run : 
 
-[Link](url) and ![Image](src)
-```
++ npm i
++ nodemon
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Open localhost:5000
 
-### Jekyll Themes
+how install mongo : https://www.hockeycomputindo.com/2020/06/mongodb-installation-cara-installasi.html
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/mongostock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+First use mongo db : https://www.hockeycomputindo.com/2020/06/how-to-connect-and-first-use-mongodb.html
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Get started :
+
+New : Create inventori product db
+Edit : edit inventori product
+Del : delete inventori product
+
+Hapy codding !!
+
+visit we blog : https://www.hockeycomputindo.com
+made with ❤ by https://mesinkasironline.web.app
